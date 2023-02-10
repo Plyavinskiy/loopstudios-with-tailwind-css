@@ -1,1 +1,1 @@
-# loopstudios-with-tailwind-css
+[Loopstudios With Tailwind CSS](https://plyavinskiy.github.io/loopstudios-with-tailwind-css/)
